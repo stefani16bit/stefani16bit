@@ -8,12 +8,10 @@
         <img alt="Coding" width="300" src="https://i.imgur.com/n5Tg98Z.png">
       </td>
     </tr>
+
+   <div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimarchi&layout=compact&theme=highcontrast" alt="Top Languages">
+   </div>
   </div>
-  
- <div> 
-  <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanimarchi&layout=compact&theme=highcontrast" alt="Top Languages">
-  </td>
- </div>
-  
+  <br>
 </div>
