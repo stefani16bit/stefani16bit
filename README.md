@@ -14,7 +14,7 @@
       <br>
              - she/her, brazillian, pt-br + eng + learning spanish<br>
              - computer science student, 6/8<br>
-             - working as Junior Software Engineer @ Thoughtworks.<br>
+             - working as a Junior Software Engineer @ Thoughtworks.<br>
              - focus on Fullstack development and automation.<br>
              - retro tech entushiast. 
       <br>
