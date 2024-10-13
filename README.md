@@ -16,6 +16,7 @@
              - computer science student, 6/8<br>
              - working as Junior Software Engineer @ Thoughtworks.<br>
              - focus on Fullstack development and automation.<br>
+             - retro tech entushiast. 
       <br>
       <br>
       langs && frameworks:<br>
