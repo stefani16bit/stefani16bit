@@ -1,18 +1,14 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF727&random=false&width=500&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
- <img src="https://i.imgur.com/KeiceZl.png" width="500" align="left">
+ <img src="https://i.imgur.com/y4ZQvoY.jpeg" width="500" align="left">
   <p float="left">
     <samp>
-      <br>
        About me:
       <br>
        retro tech entushiast ➧ INFJ ➧ 22y ➧ she/her
       <br>
        <br>
              I'm a programmer with focus on fullstack development, currently on my last year of Computer Science, but I enjoy anything related to programming. At the moment, I'm working as a software engineer at Thoughtworks. <br>
-      <br>
-       <a fontSize="10px">This account is mainly focused on my projects and study related.</a>
-      <br>
        <br>
       langs && frameworks:<br>
           > python, javascript/typescript, java, springboot, react.js, node.js, selenium, jest, cypress.
