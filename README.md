@@ -8,7 +8,7 @@
        retro tech entushiast ➧ INFJ ➧ 22y ➧ she/her
       <br>
        <br>
-             I'm a programmer with focus on fullstack development, currently on my last year of Computer Science, but I enjoy anything related to programming. At the moment, I'm working as a software engineer at Thoughtworks. <br>
+             I'm a programmer with focus on fullstack development, currently on my last year of Computer Science, but I enjoy anything related to programming. At the moment, I'm working as a backend developer. <br>
        <br>
       langs && frameworks:<br>
           > python, javascript/typescript, java, springboot, react.js, node.js, selenium, jest, cypress.
