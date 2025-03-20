@@ -1,5 +1,5 @@
 <p float="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41b782&random=false&width=499&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=499&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
  <img src="https://i.imgur.com/hWXN2gt.png" width="480" align="left">
   <p float="left">
     <samp>
@@ -15,7 +15,7 @@
       <br>
       <br />
       <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani16bit&layout=compact&theme=vue-dark" alt="Top Languages">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani16bit&layout=compact&theme=gruvbox" alt="Top Languages">
      <br>
      </samp>
   </p>
