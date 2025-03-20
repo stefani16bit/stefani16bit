@@ -1,17 +1,17 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF727&random=false&width=500&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
- <img src="https://i.imgur.com/PiZgIGp.jpeg" width="500" align="left">
+ <img src="https://i.imgur.com/Lv3Y7hH.png" width="500" align="left">
   <p float="left">
     <samp>
-       About me:
+       about me:
       <br>
-       retro tech entushiast ➧ INFJ ➧ 22y ➧ she/her
+       retro tech entushiast ➧ 22y ➧ she/her
       <br>
        <br>
-             I'm a programmer with focus on fullstack development, currently on my last year of Computer Science, but I enjoy anything related to programming. At the moment, I'm working as a backend developer. <br>
+             I'm a programmer focusing on full-stack development, and I am currently in my last year of computer science, but I enjoy anything related to programming. At the moment, I'm working as a full-stack swe. <br>
        <br>
       langs && frameworks:<br>
-          > python, javascript/typescript, java, springboot, react.js, node.js, selenium, jest, cypress.
+          > python, typescript, java, react, node, spring.
       <br>
       <br />
       <br>
