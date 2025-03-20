@@ -15,7 +15,7 @@
       <br>
       <br />
       <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani16bit&layout=compact&theme=gruvbox" alt="Top Languages">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani16bit&layout=compact&theme=codeSTACKr" alt="Top Languages">
      <br>
      </samp>
   </p>
