@@ -1,6 +1,6 @@
 <p float="left">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=499&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" /></a>
- <img src="https://i.imgur.com/KEuzP6O.png" width="500" align="left">
+ <img src="https://i.imgur.com/YgoP0LX.jpeg" width="500" align="left">
   <p float="left">
     <samp>
        about me:
