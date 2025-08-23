@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=400&height=40&lines=Hello%2F+I'm+Stefani!" alt="Typing SVG" />
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=400&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" />
       </a>
       <br/>
       <img src="https://i.imgur.com/JQqw2EX.gif" width="350" />
