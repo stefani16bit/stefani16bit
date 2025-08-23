@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=400&height=40&lines=Hey%2F+I'm+Stefani.+I'm+into+computer+stuff." alt="Typing SVG" />
       </a>
       <br/>
-      <img src="https://i.imgur.com/dPGsuKs.gif" width="350" />
+      <img src="https://i.imgur.com/JQqw2EX.gif" width="350" />
     </td>
     <td valign="top">
       <p><b>about me:</b><br>
