@@ -14,7 +14,7 @@
       I'm a programmer focusing on full-stack development, and I am currently in my last year of computer science, but I enjoy anything related to programming. At the moment, I'm working as a full-stack swe.
       <br><br>
       <b>langs && frameworks:</b><br>
-      ▸ typescript, python, java, react, node.
+      ▸ typescript, python, react, node.
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefani16bit&layout=compact&theme=codeSTACKr" alt="Top Languages">
       </p>
