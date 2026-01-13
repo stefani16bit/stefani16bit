@@ -16,7 +16,7 @@
       <b>langs && frameworks:</b><br>
       ▸ typescript, python, react, node.
       <br><br>
-           <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp" width="40" height="40"/> <a href="https://www.hackerrank.com/profile/stefanimarchi13"> hackerrank profile </a>
+           <img src="https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp" width="40" height="40"/> <a href="https://www.hackerrank.com/profile/stefanimarchi13"> HackerRank Profile </a>
       </p>
     </td>
   </tr>
