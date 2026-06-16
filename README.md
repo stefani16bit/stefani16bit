@@ -11,7 +11,7 @@
       <p><b>about me:</b><br>
       retro tech enthusiast ➧ 23y ➧ she/her
       <br><br>
-      I'm a programmer focusing on full-stack development, and I am currently in my last year of computer science, but I enjoy anything related to programming. At the moment, I'm working as a full-stack swe.
+      Computer Science graduate and Full-Stack Software Engineer passionate about programming, software development, and technology as a whole. I enjoy building solutions, learning new technologies, and tackling complex problems.
       <br><br>
       <b>langs && frameworks:</b><br>
       ▸ typescript, python, react, node.
